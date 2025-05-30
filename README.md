@@ -14,7 +14,7 @@ This project is a simple RESTful API built with **Node.js** and **Express.js** t
 - Thunder Client(for testing)
 
 ## Screenshots of Thunder client testing
-![GET result]("screenshots/postman_get.png")
-![POST result]("screenshots/postman_post.png")
-![PUT result]("screenshots/postman_put.png")
-![Delete result]("screenshots/postman_delete.png")
+![GET result]("/screenshots/postman_get.png")
+![POST result]("/screenshots/postman_post.png")
+![PUT result]("/screenshots/postman_put.png")
+![Delete result]("/screenshots/postman_delete.png")
